@@ -2,6 +2,8 @@
     "cSpell.words": [
         "filedir",
         "Gokulnath",
-        "ipynb"
-    ]
+        "ipynb",
+        "joblib"
+    ],
+    "python.REPL.enableREPLSmartSend": false
 }
